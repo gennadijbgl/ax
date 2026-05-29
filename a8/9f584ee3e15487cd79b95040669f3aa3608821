@@ -1,0 +1,24 @@
+src/ax/dsp/util.ts
+  s_d5fbc7bc14e9ae::t_c5a6187e5abd6b 52-53,60-64,66
+src/ax/ai/google-gemini/api.ts
+  s_d5fbc7bc14e9ae::t_692370e0c37f19 1990-1991
+  s_d5fbc7bc14e9ae::t_6ca3b00baa47f2 1843-1844
+  s_d5fbc7bc14e9ae::t_ab45f38d8a66e2 793-794
+  s_d5fbc7bc14e9ae::t_cf97396dad074c 258-275
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "a89f584ee3e15487cd79b95040669f3aa3608821",
+  "prompts": {},
+  "sessions": {
+    "s_d5fbc7bc14e9ae": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6b2c8e2b-1661-460b-a097-f6e0375ba670",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "gennadijbgl <gennadijbgl@gmail.com>"
+    }
+  }
+}
