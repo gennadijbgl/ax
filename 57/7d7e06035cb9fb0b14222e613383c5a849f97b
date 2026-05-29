@@ -1,0 +1,19 @@
+src/ax/dsp/prompt.ts
+  s_d5fbc7bc14e9ae::t_d2a98baaaf6657 1190-1204,1214,1217
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "577d7e06035cb9fb0b14222e613383c5a849f97b",
+  "prompts": {},
+  "sessions": {
+    "s_d5fbc7bc14e9ae": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6b2c8e2b-1661-460b-a097-f6e0375ba670",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "gennadijbgl <gennadijbgl@gmail.com>"
+    }
+  }
+}
